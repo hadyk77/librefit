@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "513115294138",
+    "firebase_url": "https://librefit2-3fc3a.firebaseio.com",
+    "project_id": "librefit2-3fc3a",
+    "storage_bucket": "librefit2-3fc3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513115294138:android:cefcdbf01cc6ade7",
+        "android_client_info": {
+          "package_name": "com.project.librefit.librefit2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513115294138-emrivrjj4idmrsvsf41h3152ire59sfc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "513115294138-emrivrjj4idmrsvsf41h3152ire59sfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1E-_euz7REMpsI4vhcQGFib8VvnIzsCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
